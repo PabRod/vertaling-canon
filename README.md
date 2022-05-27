@@ -1,7 +1,15 @@
 # Spaanse vertaling voor De Canon van Nederland
 
 De Canon van Nederland is een boek over de historische en culturele ontwikkeling van Nederland.
-Je kan het gratis lezen in [zijn website](https://www.canonvannederland.nl/).
+Je kan De Canon gratis [online](https://www.canonvannederland.nl/) lezen. 
+Dit lesmateriaal is vaak gebruiken in scholen en inburgeringexamens.
+
+De Canon van Nederland werd door vrijwilligers aan [verschillende talen](https://www.canonvannederland.nl/nl/over) vertaald.
+Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
+
+- Mijn eigen Nederlands te verbeteren.
+- Andere Spaanstalige emigranten te hulpen.
+
 
 ## Status
 
