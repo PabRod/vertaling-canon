@@ -13,6 +13,8 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 
 ## Status
 
+12 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+
 | Hoofdstuk                          | Gelezen | Vertaald |
 |:-----------------------------------|:-------:|---------:|
 | 1. Trijntje                        |    x    |          |
