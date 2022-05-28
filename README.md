@@ -13,7 +13,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 
 ## Status
 
-12 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+13 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          | Gelezen |   Vertaald |
 |:-----------------------------------|:-------:|-----------:|
@@ -51,7 +51,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 | 32. Het Kinderwetje van Van Houten |    x    | [link][32] |
 | 33. Vincent van Gogh               |    x    | [link][33] |
 | 34. Aletta Jacobs                  |    x    | [link][34] |
-| 35. De Eerste Wereldoorlog         |    x    |            |
+| 35. De Eerste Wereldoorlog         |    x    | [link][35] |
 | 36. Anton de Kom                   |    x    |            |
 | 37. De Tweede Wereldoorlog         |    x    |            |
 | 38. Anne Frank                     |    x    |            |
@@ -80,3 +80,4 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 [32]: https://docs.google.com/document/d/1iBYLst_Fz54vqzBdmuErK3jl2Gkog3H2bUq-LWHO5qE/edit?usp=sharing
 [33]: https://docs.google.com/document/d/1F0EoSgIg7uSmhkQ1r3fcHYso5wJzciwQLSFAMdP83V0/edit?usp=sharing
 [34]: https://docs.google.com/document/d/1VwuUP20B8OSiVxi6H8sY_aMDMqbaDBlTFZGlkfcGOJ4/edit?usp=sharing
+[35]: https://docs.google.com/document/d/1CmnKwqTyvfpW9WTJovlxV0em0n2rzEtTxPOuZdf9vgQ/edit?usp=sharing
