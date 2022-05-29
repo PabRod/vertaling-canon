@@ -59,8 +59,8 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 | 40. De watersnood                  |    x    |            |
 | 41. De televisie                   |    x    |            |
 | 42. Haven van Rotterdam            |    x    |            |
-| 43. Marga Klompé                   |         |            |
-| 44. De gastarbeiders               |         |            |
+| 43. Marga Klompé                   |    x    |            |
+| 44. De gastarbeiders               |    x    |            |
 | 45. Annie M.G. Schmidt             |         |            |
 | 46. Kolen en gas                   |         |            |
 | 47. Het Caribisch gebied           |         |            |
