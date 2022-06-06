@@ -61,12 +61,12 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 | 42. Haven van Rotterdam            |    x    |            |
 | 43. Marga Klompé                   |    x    | [link][43] |
 | 44. De gastarbeiders               |    x    |            |
-| 45. Annie M.G. Schmidt             |         |            |
-| 46. Kolen en gas                   |         |            |
-| 47. Het Caribisch gebied           |         |            |
-| 48. Srebrenica                     |         |            |
-| 49. Europa                         |         |            |
-| 50. Het Oranjegevoel               |         |            |
+| 45. Annie M.G. Schmidt             |    x    |            |
+| 46. Kolen en gas                   |    x    |            |
+| 47. Het Caribisch gebied           |    x    |            |
+| 48. Srebrenica                     |    x    |            |
+| 49. Europa                         |    x    |            |
+| 50. Het Oranjegevoel               |    x    |            |
 
 [9]: https://docs.google.com/document/d/1SZMG37OMJVQRX_v-ePtZXoFNuYQaZHDcGegHeMwFDx8/edit?usp=sharing
 [20]: https://docs.google.com/document/d/1NGgiwcJPkNHLBJVUaGrbtdSLWTJ-RL7KC8sm0iAGKjE/edit?usp=sharing
