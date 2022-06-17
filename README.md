@@ -55,7 +55,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 | 36. Anton de Kom                   | [link][36] |
 | 37. De Tweede Wereldoorlog         | [link][37] |
 | 38. Anne Frank                     | [link][38] |
-| 39. Indonesië                      |            |
+| 39. Indonesië                      | [link][39] |
 | 40. De watersnood                  |            |
 | 41. De televisie                   |            |
 | 42. Haven van Rotterdam            |            |
@@ -84,4 +84,5 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 [36]: https://docs.google.com/document/d/1qul_NHpts01ekwFiCfh9r4GzzNpLNMz9XtJgLEzU7qI/edit?usp=sharing
 [37]: https://docs.google.com/document/d/1xoSrtpYZe6Cr1WLmszYk5joxXtz5M_hvpVXLEiLUHR8/edit?usp=sharing
 [38]: https://docs.google.com/document/d/10pV3fufIU1zXf5-uCnP9DIzgz1HGonwb8bPzTYLSItk/edit?usp=sharing
+[39]: https://docs.google.com/document/d/1JZh-aHXU6rQsC9mrXbQrJcdsSzJu7aSucdj_MKR1P94/edit?usp=sharing
 [43]: https://docs.google.com/document/d/1uV3cwTnRtedPxwnbf6YoCVpuJKIBwcWeuAdMfCsIQJQ/edit?usp=sharing
