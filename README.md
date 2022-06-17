@@ -13,7 +13,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 
 ## Status
 
-16 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+17 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          | Gelezen |   Vertaald |
 |:-----------------------------------|:-------:|-----------:|
@@ -54,7 +54,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 | 35. De Eerste Wereldoorlog         |    x    | [link][35] |
 | 36. Anton de Kom                   |    x    | [link][36] |
 | 37. De Tweede Wereldoorlog         |    x    | [link][37] |
-| 38. Anne Frank                     |    x    |            |
+| 38. Anne Frank                     |    x    | [link][38] |
 | 39. Indonesië                      |    x    |            |
 | 40. De watersnood                  |    x    |            |
 | 41. De televisie                   |    x    |            |
@@ -83,4 +83,5 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 [35]: https://docs.google.com/document/d/1CmnKwqTyvfpW9WTJovlxV0em0n2rzEtTxPOuZdf9vgQ/edit?usp=sharing
 [36]: https://docs.google.com/document/d/1qul_NHpts01ekwFiCfh9r4GzzNpLNMz9XtJgLEzU7qI/edit?usp=sharing
 [37]: https://docs.google.com/document/d/1xoSrtpYZe6Cr1WLmszYk5joxXtz5M_hvpVXLEiLUHR8/edit?usp=sharing
+[38]: https://docs.google.com/document/d/10pV3fufIU1zXf5-uCnP9DIzgz1HGonwb8bPzTYLSItk/edit?usp=sharing
 [43]: https://docs.google.com/document/d/1uV3cwTnRtedPxwnbf6YoCVpuJKIBwcWeuAdMfCsIQJQ/edit?usp=sharing
