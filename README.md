@@ -15,58 +15,58 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 
 17 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
-| Hoofdstuk                          | Gelezen |   Vertaald |
-|:-----------------------------------|:-------:|-----------:|
-| 1. Trijntje                        |    x    |            |
-| 2. Hunebedden                      |    x    |            |
-| 3. De romeinse Limes               |    x    |            |
-| 4. Willibrord                      |    x    |            |
-| 5. Karel de Grote                  |    x    |            |
-| 6. Hebban olla vogala              |    x    |            |
-| 7. De Hanze                        |    x    |            |
-| 8. Jeroen Bosch                    |    x    |            |
-| 9. Maria van Bourgondië            |    x    |  [link][9] |
-| 10. Erasmus                        |    x    |            |
-| 11. De Opstand                     |    x    |            |
-| 12. Willem van Oranje              |    x    |            |
-| 13. Johan van Oldenbarnevelt       |    x    |            |
-| 14. VOC en WIC                     |    x    |            |
-| 15. De Beemster                    |    x    |            |
-| 16. Hugo de Groot                  |    x    |            |
-| 17. De Statenbijbel                |    x    |            |
-| 18. Rembrandt                      |    x    |            |
-| 19. De Atlas Maior van Blaeu       |    x    |            |
-| 20. Michiel de Ruyter              |    x    | [link][20] |
-| 21. Christiaan Huygens             |    x    | [link][21] |
-| 22. Spinoza                        |    x    | [link][22] |
-| 23. Slavernij                      |    x    |            |
-| 24. Eise Eisinga                   |    x    | [link][24] |
-| 25. Sara Burgerhart                |    x    |            |
-| 26. De patriotten                  |    x    |            |
-| 27. Napoleon Bonaparte             |    x    |            |
-| 28. Koning Willem I                |    x    | [link][28] |
-| 29. De eerste spoorlijn            |    x    | [link][29] |
-| 30. De Grondwet                    |    x    | [link][30] |
-| 31. Max Havelaar                   |    x    | [link][31] |
-| 32. Het Kinderwetje van Van Houten |    x    | [link][32] |
-| 33. Vincent van Gogh               |    x    | [link][33] |
-| 34. Aletta Jacobs                  |    x    | [link][34] |
-| 35. De Eerste Wereldoorlog         |    x    | [link][35] |
-| 36. Anton de Kom                   |    x    | [link][36] |
-| 37. De Tweede Wereldoorlog         |    x    | [link][37] |
-| 38. Anne Frank                     |    x    | [link][38] |
-| 39. Indonesië                      |    x    |            |
-| 40. De watersnood                  |    x    |            |
-| 41. De televisie                   |    x    |            |
-| 42. Haven van Rotterdam            |    x    |            |
-| 43. Marga Klompé                   |    x    | [link][43] |
-| 44. De gastarbeiders               |    x    |            |
-| 45. Annie M.G. Schmidt             |    x    |            |
-| 46. Kolen en gas                   |    x    |            |
-| 47. Het Caribisch gebied           |    x    |            |
-| 48. Srebrenica                     |    x    |            |
-| 49. Europa                         |    x    |            |
-| 50. Het Oranjegevoel               |    x    |            |
+| Hoofdstuk                          |  Vertaling |
+|:-----------------------------------|:----------:|
+| 1. Trijntje                        |            |
+| 2. Hunebedden                      |            |
+| 3. De romeinse Limes               |            |
+| 4. Willibrord                      |            |
+| 5. Karel de Grote                  |            |
+| 6. Hebban olla vogala              |            |
+| 7. De Hanze                        |            |
+| 8. Jeroen Bosch                    |            |
+| 9. Maria van Bourgondië            |  [link][9] |
+| 10. Erasmus                        |            |
+| 11. De Opstand                     |            |
+| 12. Willem van Oranje              |            |
+| 13. Johan van Oldenbarnevelt       |            |
+| 14. VOC en WIC                     |            |
+| 15. De Beemster                    |            |
+| 16. Hugo de Groot                  |            |
+| 17. De Statenbijbel                |            |
+| 18. Rembrandt                      |            |
+| 19. De Atlas Maior van Blaeu       |            |
+| 20. Michiel de Ruyter              | [link][20] |
+| 21. Christiaan Huygens             | [link][21] |
+| 22. Spinoza                        | [link][22] |
+| 23. Slavernij                      |            |
+| 24. Eise Eisinga                   | [link][24] |
+| 25. Sara Burgerhart                |            |
+| 26. De patriotten                  |            |
+| 27. Napoleon Bonaparte             |            |
+| 28. Koning Willem I                | [link][28] |
+| 29. De eerste spoorlijn            | [link][29] |
+| 30. De Grondwet                    | [link][30] |
+| 31. Max Havelaar                   | [link][31] |
+| 32. Het Kinderwetje van Van Houten | [link][32] |
+| 33. Vincent van Gogh               | [link][33] |
+| 34. Aletta Jacobs                  | [link][34] |
+| 35. De Eerste Wereldoorlog         | [link][35] |
+| 36. Anton de Kom                   | [link][36] |
+| 37. De Tweede Wereldoorlog         | [link][37] |
+| 38. Anne Frank                     | [link][38] |
+| 39. Indonesië                      |            |
+| 40. De watersnood                  |            |
+| 41. De televisie                   |            |
+| 42. Haven van Rotterdam            |            |
+| 43. Marga Klompé                   | [link][43] |
+| 44. De gastarbeiders               |            |
+| 45. Annie M.G. Schmidt             |            |
+| 46. Kolen en gas                   |            |
+| 47. Het Caribisch gebied           |            |
+| 48. Srebrenica                     |            |
+| 49. Europa                         |            |
+| 50. Het Oranjegevoel               |            |
 
 [9]: https://docs.google.com/document/d/1SZMG37OMJVQRX_v-ePtZXoFNuYQaZHDcGegHeMwFDx8/edit?usp=sharing
 [20]: https://docs.google.com/document/d/1NGgiwcJPkNHLBJVUaGrbtdSLWTJ-RL7KC8sm0iAGKjE/edit?usp=sharing
