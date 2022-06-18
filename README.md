@@ -14,7 +14,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 
 ## Status
 
-18 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+19 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
@@ -57,7 +57,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 | 37. De Tweede Wereldoorlog         | [link][37] |
 | 38. Anne Frank                     | [link][38] |
 | 39. Indonesië                      | [link][39] |
-| 40. De watersnood                  |            |
+| 40. De watersnood                  | [link][40] |
 | 41. De televisie                   |            |
 | 42. Haven van Rotterdam            |            |
 | 43. Marga Klompé                   | [link][43] |
@@ -86,4 +86,5 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 [37]: https://docs.google.com/document/d/1xoSrtpYZe6Cr1WLmszYk5joxXtz5M_hvpVXLEiLUHR8/edit?usp=sharing
 [38]: https://docs.google.com/document/d/10pV3fufIU1zXf5-uCnP9DIzgz1HGonwb8bPzTYLSItk/edit?usp=sharing
 [39]: https://docs.google.com/document/d/1JZh-aHXU6rQsC9mrXbQrJcdsSzJu7aSucdj_MKR1P94/edit?usp=sharing
+[40]: https://docs.google.com/document/d/1yQJ8AfT0S0tBizhN6plYEaKub85MGwnXtKk1H8OcV2Y/edit?usp=sharing
 [43]: https://docs.google.com/document/d/1uV3cwTnRtedPxwnbf6YoCVpuJKIBwcWeuAdMfCsIQJQ/edit?usp=sharing
