@@ -1,5 +1,7 @@
 # Spaanse vertaling van De Canon van Nederland
 
+_Traducción al español [aquí](LEEME.md)_.
+
 De Canon van Nederland is een boek over de historische en culturele ontwikkeling van Nederland.
 Je kan De Canon gratis [online](https://www.canonvannederland.nl/) lezen. 
 Dit lesmateriaal is vaak gebruiken in scholen en inburgeringexamens.
@@ -9,7 +11,6 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 
 - Mijn eigen Nederlands te verbeteren.
 - Andere Spaanstalige emigranten te hulpen.
-
 
 ## Status
 
