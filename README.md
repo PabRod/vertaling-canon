@@ -14,7 +14,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 
 ## Status
 
-19 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+21 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
@@ -59,7 +59,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 | 39. Indonesië                      | [link][39] |
 | 40. De watersnood                  | [link][40] |
 | 41. De televisie                   | [link][41] |
-| 42. Haven van Rotterdam            |            |
+| 42. Haven van Rotterdam            | [link][42] |
 | 43. Marga Klompé                   | [link][43] |
 | 44. De gastarbeiders               |            |
 | 45. Annie M.G. Schmidt             |            |
@@ -88,4 +88,5 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 [39]: https://docs.google.com/document/d/1JZh-aHXU6rQsC9mrXbQrJcdsSzJu7aSucdj_MKR1P94/edit?usp=sharing
 [40]: https://docs.google.com/document/d/1yQJ8AfT0S0tBizhN6plYEaKub85MGwnXtKk1H8OcV2Y/edit?usp=sharing
 [41]: https://docs.google.com/document/d/1TknCMnCArLLqIeiFikvo0SDGDbCARjWpo_MR29LjxN4/edit?usp=sharing
+[42]: https://docs.google.com/document/d/17m3DjJlR9puYXZSX8f7AnyxslwtsfeS23SFhk-SrJ9I/edit?usp=sharing
 [43]: https://docs.google.com/document/d/1uV3cwTnRtedPxwnbf6YoCVpuJKIBwcWeuAdMfCsIQJQ/edit?usp=sharing
