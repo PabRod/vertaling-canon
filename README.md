@@ -14,7 +14,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 
 ## Status
 
-21 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+22 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
@@ -61,7 +61,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 | 41. De televisie                   | [link][41] |
 | 42. Haven van Rotterdam            | [link][42] |
 | 43. Marga Klompé                   | [link][43] |
-| 44. De gastarbeiders               |            |
+| 44. De gastarbeiders               | [link][44] |
 | 45. Annie M.G. Schmidt             |            |
 | 46. Kolen en gas                   |            |
 | 47. Het Caribisch gebied           |            |
@@ -90,3 +90,4 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 [41]: https://docs.google.com/document/d/1TknCMnCArLLqIeiFikvo0SDGDbCARjWpo_MR29LjxN4/edit?usp=sharing
 [42]: https://docs.google.com/document/d/17m3DjJlR9puYXZSX8f7AnyxslwtsfeS23SFhk-SrJ9I/edit?usp=sharing
 [43]: https://docs.google.com/document/d/1uV3cwTnRtedPxwnbf6YoCVpuJKIBwcWeuAdMfCsIQJQ/edit?usp=sharing
+[44]: https://docs.google.com/document/d/1GgCqNK6P6mN-p6dPhH7DZyY5XaJV_IXSvMKWurMoQWE/edit?usp=sharing
