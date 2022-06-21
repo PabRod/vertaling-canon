@@ -26,7 +26,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 | 6. Hebban olla vogala              |            |
 | 7. De Hanze                        |            |
 | 8. Jeroen Bosch                    |            |
-| 9. Maria van Bourgondië            |  [link][9] |
+| 9. Maria van Bourgondië            | [link][09] |
 | 10. Erasmus                        |            |
 | 11. De Opstand                     |            |
 | 12. Willem van Oranje              |            |
@@ -58,7 +58,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 | 38. Anne Frank                     | [link][38] |
 | 39. Indonesië                      | [link][39] |
 | 40. De watersnood                  | [link][40] |
-| 41. De televisie                   |            |
+| 41. De televisie                   | [link][41] |
 | 42. Haven van Rotterdam            |            |
 | 43. Marga Klompé                   | [link][43] |
 | 44. De gastarbeiders               |            |
@@ -69,7 +69,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 | 49. Europa                         |            |
 | 50. Het Oranjegevoel               |            |
 
-[9]: https://docs.google.com/document/d/1SZMG37OMJVQRX_v-ePtZXoFNuYQaZHDcGegHeMwFDx8/edit?usp=sharing
+[09]: https://docs.google.com/document/d/1SZMG37OMJVQRX_v-ePtZXoFNuYQaZHDcGegHeMwFDx8/edit?usp=sharing
 [20]: https://docs.google.com/document/d/1NGgiwcJPkNHLBJVUaGrbtdSLWTJ-RL7KC8sm0iAGKjE/edit?usp=sharing
 [21]: https://docs.google.com/document/d/1bfODyGy4emcX7qv2hrUvaI8FFbTjdBhBL-FICsKPVL8/edit?usp=sharing
 [22]: https://docs.google.com/document/d/1-th8-3SJ_N5E5yGR4b1mlv0qQ7_qnH7Jgq-R4-dnwNw/edit?usp=sharing
@@ -87,4 +87,5 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 [38]: https://docs.google.com/document/d/10pV3fufIU1zXf5-uCnP9DIzgz1HGonwb8bPzTYLSItk/edit?usp=sharing
 [39]: https://docs.google.com/document/d/1JZh-aHXU6rQsC9mrXbQrJcdsSzJu7aSucdj_MKR1P94/edit?usp=sharing
 [40]: https://docs.google.com/document/d/1yQJ8AfT0S0tBizhN6plYEaKub85MGwnXtKk1H8OcV2Y/edit?usp=sharing
+[41]: https://docs.google.com/document/d/1TknCMnCArLLqIeiFikvo0SDGDbCARjWpo_MR29LjxN4/edit?usp=sharing
 [43]: https://docs.google.com/document/d/1uV3cwTnRtedPxwnbf6YoCVpuJKIBwcWeuAdMfCsIQJQ/edit?usp=sharing
