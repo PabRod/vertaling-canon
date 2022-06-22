@@ -14,7 +14,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 
 ## Status
 
-24 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+25 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
@@ -64,7 +64,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 | 44. De gastarbeiders               | [link][44] |
 | 45. Annie M.G. Schmidt             | [link][45] |
 | 46. Kolen en gas                   | [link][46] |
-| 47. Het Caribisch gebied           |            |
+| 47. Het Caribisch gebied           | [link][47] |
 | 48. Srebrenica                     |            |
 | 49. Europa                         |            |
 | 50. Het Oranjegevoel               |            |
@@ -93,3 +93,4 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 [44]: https://docs.google.com/document/d/1GgCqNK6P6mN-p6dPhH7DZyY5XaJV_IXSvMKWurMoQWE/edit?usp=sharing
 [45]: https://docs.google.com/document/d/1u3L56RnOhFVL-gCPSl8zPlkbouw7c-4u1gtkaTvd5N8/edit?usp=sharing
 [46]: https://docs.google.com/document/d/1fZrxxBjQobtpH3GDWC5w1vzV3CHrFTj0-36yNCucZiI/edit?usp=sharing
+[47]: https://docs.google.com/document/d/1bD7IHd7BhKhFjO4k5MEpqee2kc_-WtGrwZtMxdLDMUI/edit?usp=sharing
