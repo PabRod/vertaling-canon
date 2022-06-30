@@ -14,7 +14,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 
 ## Status
 
-26 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+27 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
@@ -66,7 +66,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 | 46. Kolen en gas                   | [link][46] |
 | 47. Het Caribisch gebied           | [link][47] |
 | 48. Srebrenica                     | [link][48] |
-| 49. Europa                         |            |
+| 49. Europa                         | [link][49] |
 | 50. Het Oranjegevoel               |            |
 
 [09]: https://docs.google.com/document/d/1SZMG37OMJVQRX_v-ePtZXoFNuYQaZHDcGegHeMwFDx8/edit?usp=sharing
@@ -95,3 +95,4 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 [46]: https://docs.google.com/document/d/1fZrxxBjQobtpH3GDWC5w1vzV3CHrFTj0-36yNCucZiI/edit?usp=sharing
 [47]: https://docs.google.com/document/d/1bD7IHd7BhKhFjO4k5MEpqee2kc_-WtGrwZtMxdLDMUI/edit?usp=sharing
 [48]: https://docs.google.com/document/d/1-SpylkDV9LhvnjNb5Enb-RPVqZSbv9ZyiJePBTegGiE/edit?usp=sharing
+[49]: https://docs.google.com/document/d/1sZT2sv_y_hakgmWrxd2az1ij35OfQv0S5q83LXmLmVQ/edit?usp=sharing
