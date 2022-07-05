@@ -1,0 +1,44 @@
+from snakemake.io import *
+
+# Identify the files to be converted
+ids = glob_wildcards('{id}.docx')
+word_files = expand('{id}.docx', id=ids.id)
+md_files = expand('{id}.md', id=ids.id)
+
+# Auxiliary functions
+def handle_whitespace(string):
+    """Make whitespaces understandable by the console"""
+    return string.replace(' ', '\ ')
+
+def convert(source, output):
+    """Convert a word file to a markdown file."""
+    cmd = 'pandoc -s {source} -o {output}'.format(source=handle_whitespace(source),
+                                                  output=handle_whitespace(output))
+    os.system(cmd)
+
+rule process:
+    input:
+        word_files
+    output:
+        md_files
+    run:
+        for (word_file, md_file) in zip(word_files, md_files):
+            convert(word_file, md_file)
+
+rule fix_header:
+    input:
+        md_files
+    run:
+        for file in md_files:
+            # s/PATTERN/REPLACEMENT/g
+            cmd = "sed -i 's/\[.* .anchor\}}//g' {file}".format(file=handle_whitespace(file))
+            os.system(cmd)
+
+rule clean:
+    input:
+        md_files
+    run:
+        for file in md_files:
+            cmd = 'rm {file}'.format(file=handle_whitespace(file))
+            os.system(cmd)
+

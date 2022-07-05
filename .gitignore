@@ -1,1 +1,4 @@
-backup/
+backup/.snakemake
+backup/*.docx
+backup/*.md
+backup/*.zip
