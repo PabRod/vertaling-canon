@@ -4,6 +4,7 @@ from snakemake.io import *
 ids = glob_wildcards('{id}.docx')
 word_files = expand('{id}.docx', id=ids.id)
 md_files = expand('{id}.md', id=ids.id)
+odt_files = expand('{id}.odt', id=ids.id)
 
 # Auxiliary functions
 def handle_whitespace(string):
@@ -14,6 +15,12 @@ def convert(source, output):
     """Convert a word file to a markdown file."""
     cmd = 'pandoc -s {source} -o {output}'.format(source=handle_whitespace(source),
                                                   output=handle_whitespace(output))
+    os.system(cmd)
+
+def fix_header(md_file):
+    """Removes the unneccessary anchors of the markdown file."""
+    # s/PATTERN/REPLACEMENT/g
+    cmd = "sed -i 's/\[\].* .anchor\}}//g' {file}".format(file=handle_whitespace(md_file))
     os.system(cmd)
 
 rule process:
@@ -30,15 +37,20 @@ rule fix_header:
         md_files
     run:
         for file in md_files:
-            # s/PATTERN/REPLACEMENT/g
-            cmd = "sed -i 's/\[\].* .anchor\}}//g' {file}".format(file=handle_whitespace(file))
-            os.system(cmd)
+            fix_header(file)
 
-rule clean:
+rule uniformize:
     input:
         md_files
+    output:
+        odt_files
     run:
-        for file in md_files:
-            cmd = 'rm {file}'.format(file=handle_whitespace(file))
+        for (md_file, odt_file) in zip(md_files, odt_files):
+            convert(md_file, odt_file)
+
+rule clean:
+    run:
+        for file in md_files + odt_files:
+            cmd = 'rm {file} 2> /dev/null'.format(file=handle_whitespace(file))
             os.system(cmd)
 
