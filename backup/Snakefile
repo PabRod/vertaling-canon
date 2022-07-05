@@ -31,7 +31,7 @@ rule fix_header:
     run:
         for file in md_files:
             # s/PATTERN/REPLACEMENT/g
-            cmd = "sed -i 's/\[.* .anchor\}}//g' {file}".format(file=handle_whitespace(file))
+            cmd = "sed -i 's/\[\].* .anchor\}}//g' {file}".format(file=handle_whitespace(file))
             os.system(cmd)
 
 rule clean:
