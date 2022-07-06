@@ -3,8 +3,8 @@ from snakemake.io import *
 # Identify the files to be converted
 ids = glob_wildcards('{id}.docx')
 word_files = expand('{id}.docx', id=ids.id)
-md_files = expand('{id}.md', id=ids.id)
-odt_files = expand('{id}.odt', id=ids.id)
+md_files = expand('md/{id}.md', id=ids.id)
+odt_files = expand('odt/{id}.odt', id=ids.id)
 
 # Auxiliary functions
 def handle_whitespace(string):
