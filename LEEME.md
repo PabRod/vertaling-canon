@@ -5,7 +5,8 @@ El libro se puede leer gratuitamente [online](https://www.canonvannederland.nl/)
 Sus contenidos se utilizan a menudo en las escuelas y en los exámenes de ciudadanía.
 
 Existen traducciones del Canon a [distintos idiomas](https://www.canonvannederland.nl/nl/over), hechas por voluntarios.
-Yo estoy trabajando en la versión hispanohablante, con el doble objetivo de:
+Yo estoy trabajando en la versión hispanohablante, con el triple objetivo de:
 
 - Mejorar mi propio nivel de neerlandés.
+- Entender mejor la cultura de mi país de acogida.
 - Ayudar a otros inmigrantes hispanohablantes.

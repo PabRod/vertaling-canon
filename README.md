@@ -7,14 +7,15 @@ Je kan De Canon gratis [online](https://www.canonvannederland.nl/) lezen.
 Dit lesmateriaal is vaak in scholen en inburgeringexamens gebruiken.
 
 De Canon van Nederland werd door vrijwilligers aan [verschillende talen](https://www.canonvannederland.nl/nl/over) vertaald.
-Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
+Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 
 - Mijn eigen Nederlands te verbeteren.
+- De cultuur van mijn gastland beter begrijpen.
 - Andere Spaanstalige emigranten te hulpen.
 
 ## Status
 
-27 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+28 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
@@ -67,7 +68,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 | 47. Het Caribisch gebied           | [link][47] |
 | 48. Srebrenica                     | [link][48] |
 | 49. Europa                         | [link][49] |
-| 50. Het Oranjegevoel               |            |
+| 50. Het Oranjegevoel               | [link][50] |
 
 [09]: https://docs.google.com/document/d/1SZMG37OMJVQRX_v-ePtZXoFNuYQaZHDcGegHeMwFDx8/edit?usp=sharing
 [20]: https://docs.google.com/document/d/1NGgiwcJPkNHLBJVUaGrbtdSLWTJ-RL7KC8sm0iAGKjE/edit?usp=sharing
@@ -96,3 +97,4 @@ Ik ben aan het werken in een Spaanstalige versie, met het dubbele doel van:
 [47]: https://docs.google.com/document/d/1bD7IHd7BhKhFjO4k5MEpqee2kc_-WtGrwZtMxdLDMUI/edit?usp=sharing
 [48]: https://docs.google.com/document/d/1-SpylkDV9LhvnjNb5Enb-RPVqZSbv9ZyiJePBTegGiE/edit?usp=sharing
 [49]: https://docs.google.com/document/d/1sZT2sv_y_hakgmWrxd2az1ij35OfQv0S5q83LXmLmVQ/edit?usp=sharing
+[50]: https://docs.google.com/document/d/1Bt3qeTKdImm_KfiD04RF8OVrP1OXTzmwSiX3MRPLDEs/edit?usp=sharing
