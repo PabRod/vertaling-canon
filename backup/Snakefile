@@ -23,6 +23,21 @@ def fix_header(md_file):
     cmd = "sed -i 's/\[\].* .anchor\}}//g' {file}".format(file=handle_whitespace(md_file))
     os.system(cmd)
 
+def fix_format(md_file):
+    """ Changes the sectioning format """
+    # s/PATTERN/REPLACEMENT/g
+    # Trim trailing **
+    cmd = "sed -i 's/\*\*$//g' {file}".format(file=handle_whitespace(md_file))
+    os.system(cmd)
+
+    # Substitute initial ** by ##
+    cmd = "sed -i 's/^\*\*/\#\# /g' {file}".format(file=handle_whitespace(md_file))
+    os.system(cmd)
+
+    # Substitute * by _
+    cmd = "sed -i 's/\*/\_/g' {file}".format(file=handle_whitespace(md_file))
+    os.system(cmd)
+
 rule process:
     input:
         word_files
@@ -38,6 +53,13 @@ rule fix_header:
     run:
         for file in md_files:
             fix_header(file)
+
+rule fix_format:
+    input:
+        md_files
+    run:
+        for file in md_files:
+            fix_format(file)
 
 rule uniformize:
     input:
