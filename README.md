@@ -15,12 +15,12 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 
 ## Status
 
-29 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+30 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
 | 1. Trijntje                        | [link][01] |
-| 2. Hunebedden                      |            |
+| 2. Hunebedden                      | [link][02] |
 | 3. De romeinse Limes               |            |
 | 4. Willibrord                      |            |
 | 5. Karel de Grote                  |            |
@@ -71,11 +71,17 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 | 50. Het Oranjegevoel               | [link][50] |
 
 [01]: https://docs.google.com/document/d/1qt9RTatfi71R0Uii8Wu5GMGGLlqOCIEJ2-L05s8Nq64/edit?usp=sharing
+[02]: https://docs.google.com/document/d/1jZSSGmLiOuCS-unPQ2Ya8OIYmGf8_eXZb5fNI60L2WY/edit?usp=sharing
+
 [09]: https://docs.google.com/document/d/1SZMG37OMJVQRX_v-ePtZXoFNuYQaZHDcGegHeMwFDx8/edit?usp=sharing
+
 [20]: https://docs.google.com/document/d/1NGgiwcJPkNHLBJVUaGrbtdSLWTJ-RL7KC8sm0iAGKjE/edit?usp=sharing
 [21]: https://docs.google.com/document/d/1bfODyGy4emcX7qv2hrUvaI8FFbTjdBhBL-FICsKPVL8/edit?usp=sharing
+
 [22]: https://docs.google.com/document/d/1-th8-3SJ_N5E5yGR4b1mlv0qQ7_qnH7Jgq-R4-dnwNw/edit?usp=sharing
+
 [24]: https://docs.google.com/document/d/1rpgmh7Ljg_reRGQXZvFGoSSb0pQqonzTtPnaD4u9ML8/edit?usp=sharing
+
 [28]: https://docs.google.com/document/d/1rpgmh7Ljg_reRGQXZvFGoSSb0pQqonzTtPnaD4u9ML8/edit?usp=sharing
 [29]: https://docs.google.com/document/d/1S3F7pYmSXIBODX-r9JyFrFFJ1eVGw2ga759wQ1GFhKA/edit?usp=sharing
 [30]: https://docs.google.com/document/d/1G024D5sai_ay49LZWS7RNE5t3vi9W-uERRCE99-BX-w/edit?usp=sharing
