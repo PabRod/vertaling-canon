@@ -15,11 +15,11 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 
 ## Status
 
-28 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+29 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
-| 1. Trijntje                        |            |
+| 1. Trijntje                        | [link][01] |
 | 2. Hunebedden                      |            |
 | 3. De romeinse Limes               |            |
 | 4. Willibrord                      |            |
@@ -70,6 +70,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 | 49. Europa                         | [link][49] |
 | 50. Het Oranjegevoel               | [link][50] |
 
+[01]: https://docs.google.com/document/d/1qt9RTatfi71R0Uii8Wu5GMGGLlqOCIEJ2-L05s8Nq64/edit?usp=sharing
 [09]: https://docs.google.com/document/d/1SZMG37OMJVQRX_v-ePtZXoFNuYQaZHDcGegHeMwFDx8/edit?usp=sharing
 [20]: https://docs.google.com/document/d/1NGgiwcJPkNHLBJVUaGrbtdSLWTJ-RL7KC8sm0iAGKjE/edit?usp=sharing
 [21]: https://docs.google.com/document/d/1bfODyGy4emcX7qv2hrUvaI8FFbTjdBhBL-FICsKPVL8/edit?usp=sharing
