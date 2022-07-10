@@ -15,14 +15,14 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 
 ## Status
 
-31 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+32 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
 | 1. Trijntje                        | [link][01] |
 | 2. Hunebedden                      | [link][02] |
 | 3. De romeinse Limes               | [link][03] |
-| 4. Willibrord                      |            |
+| 4. Willibrord                      | [link][04] |
 | 5. Karel de Grote                  |            |
 | 6. Hebban olla vogala              |            |
 | 7. De Hanze                        |            |
@@ -73,6 +73,8 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 [01]: https://docs.google.com/document/d/1qt9RTatfi71R0Uii8Wu5GMGGLlqOCIEJ2-L05s8Nq64/edit?usp=sharing
 [02]: https://docs.google.com/document/d/1jZSSGmLiOuCS-unPQ2Ya8OIYmGf8_eXZb5fNI60L2WY/edit?usp=sharing
 [03]: https://docs.google.com/document/d/1YuJ-Trbv-41y40dDeO_30VAeg4zXUF3mVwTyG6kSMLc/edit?usp=sharing
+[04]: https://docs.google.com/document/d/1pJeXfIN60wYtcDa05YGmZKJSjqxAfHuCsro-rnoN-mU/edit?usp=sharing
+
 [09]: https://docs.google.com/document/d/1SZMG37OMJVQRX_v-ePtZXoFNuYQaZHDcGegHeMwFDx8/edit?usp=sharing
 
 [20]: https://docs.google.com/document/d/1NGgiwcJPkNHLBJVUaGrbtdSLWTJ-RL7KC8sm0iAGKjE/edit?usp=sharing
