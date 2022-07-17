@@ -15,7 +15,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 
 ## Status
 
-33 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+34 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
@@ -25,7 +25,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 | 4. Willibrord                      | [link][04] |
 | 5. Karel de Grote                  | [link][05] |
 | 6. Hebban olla vogala              |            |
-| 7. De Hanze                        |            |
+| 7. De Hanze                        | [link][07] |
 | 8. Jeroen Bosch                    |            |
 | 9. Maria van Bourgondië            | [link][09] |
 | 10. Erasmus                        |            |
@@ -75,6 +75,8 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 [03]: https://docs.google.com/document/d/1YuJ-Trbv-41y40dDeO_30VAeg4zXUF3mVwTyG6kSMLc/edit?usp=sharing
 [04]: https://docs.google.com/document/d/1pJeXfIN60wYtcDa05YGmZKJSjqxAfHuCsro-rnoN-mU/edit?usp=sharing
 [05]: https://docs.google.com/document/d/1JrTzLVkDFwiMj8iUlHFEu6SauRzpH4MYRUhde-Cqd-Q/edit?usp=sharing
+
+[07]: https://docs.google.com/document/d/1PCB6jSqiZyFW2QyvbECwAuJHUw9UH4orusl0Xtb7WJE/edit?usp=sharing
 
 [09]: https://docs.google.com/document/d/1SZMG37OMJVQRX_v-ePtZXoFNuYQaZHDcGegHeMwFDx8/edit?usp=sharing
 
