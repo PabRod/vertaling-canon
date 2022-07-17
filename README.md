@@ -15,7 +15,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 
 ## Status
 
-32 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+33 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
@@ -23,7 +23,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 | 2. Hunebedden                      | [link][02] |
 | 3. De romeinse Limes               | [link][03] |
 | 4. Willibrord                      | [link][04] |
-| 5. Karel de Grote                  |            |
+| 5. Karel de Grote                  | [link][05] |
 | 6. Hebban olla vogala              |            |
 | 7. De Hanze                        |            |
 | 8. Jeroen Bosch                    |            |
@@ -74,6 +74,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 [02]: https://docs.google.com/document/d/1jZSSGmLiOuCS-unPQ2Ya8OIYmGf8_eXZb5fNI60L2WY/edit?usp=sharing
 [03]: https://docs.google.com/document/d/1YuJ-Trbv-41y40dDeO_30VAeg4zXUF3mVwTyG6kSMLc/edit?usp=sharing
 [04]: https://docs.google.com/document/d/1pJeXfIN60wYtcDa05YGmZKJSjqxAfHuCsro-rnoN-mU/edit?usp=sharing
+[05]: https://docs.google.com/document/d/1JrTzLVkDFwiMj8iUlHFEu6SauRzpH4MYRUhde-Cqd-Q/edit?usp=sharing
 
 [09]: https://docs.google.com/document/d/1SZMG37OMJVQRX_v-ePtZXoFNuYQaZHDcGegHeMwFDx8/edit?usp=sharing
 
