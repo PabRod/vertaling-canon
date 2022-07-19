@@ -15,7 +15,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 
 ## Status
 
-34 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+37 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
@@ -24,11 +24,11 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 | 3. De romeinse Limes               | [link][03] |
 | 4. Willibrord                      | [link][04] |
 | 5. Karel de Grote                  | [link][05] |
-| 6. Hebban olla vogala              |            |
+| 6. Hebban olla vogala              | [link][06] |
 | 7. De Hanze                        | [link][07] |
-| 8. Jeroen Bosch                    |            |
+| 8. Jeroen Bosch                    | [link][08] |
 | 9. Maria van Bourgondië            | [link][09] |
-| 10. Erasmus                        |            |
+| 10. Erasmus                        | [link][10] |
 | 11. De Opstand                     |            |
 | 12. Willem van Oranje              |            |
 | 13. Johan van Oldenbarnevelt       |            |
@@ -75,10 +75,11 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 [03]: https://docs.google.com/document/d/1YuJ-Trbv-41y40dDeO_30VAeg4zXUF3mVwTyG6kSMLc/edit?usp=sharing
 [04]: https://docs.google.com/document/d/1pJeXfIN60wYtcDa05YGmZKJSjqxAfHuCsro-rnoN-mU/edit?usp=sharing
 [05]: https://docs.google.com/document/d/1JrTzLVkDFwiMj8iUlHFEu6SauRzpH4MYRUhde-Cqd-Q/edit?usp=sharing
-
+[06]: https://docs.google.com/document/d/1tkY0Oe8aTuA7KhdiXqjGWdMr2GtZuNJV05CuOPEsXzQ/edit?usp=sharing
 [07]: https://docs.google.com/document/d/1PCB6jSqiZyFW2QyvbECwAuJHUw9UH4orusl0Xtb7WJE/edit?usp=sharing
-
+[08]: https://docs.google.com/document/d/1wGGtvgcLyLsOjZ7B7w2M-_vKEO2Di0zMpQqopHAPRts/edit?usp=sharing
 [09]: https://docs.google.com/document/d/1SZMG37OMJVQRX_v-ePtZXoFNuYQaZHDcGegHeMwFDx8/edit?usp=sharing
+[10]: https://docs.google.com/document/d/1iy496kadNcJYFmVz6o4PC_RSuTjUR5ZjGjUD3MEGgd0/edit?usp=sharing
 
 [20]: https://docs.google.com/document/d/1NGgiwcJPkNHLBJVUaGrbtdSLWTJ-RL7KC8sm0iAGKjE/edit?usp=sharing
 [21]: https://docs.google.com/document/d/1bfODyGy4emcX7qv2hrUvaI8FFbTjdBhBL-FICsKPVL8/edit?usp=sharing
