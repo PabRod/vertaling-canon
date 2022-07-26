@@ -15,7 +15,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 
 ## Status
 
-39 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+40 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
@@ -31,7 +31,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 | 10. Erasmus                        | [link][10] |
 | 11. De Opstand                     | [link][11] |
 | 12. Willem van Oranje              | [link][12] |
-| 13. Johan van Oldenbarnevelt       |            |
+| 13. Johan van Oldenbarnevelt       | [link][13] |
 | 14. VOC en WIC                     |            |
 | 15. De Beemster                    |            |
 | 16. Hugo de Groot                  |            |
@@ -82,6 +82,8 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 [10]: https://docs.google.com/document/d/1iy496kadNcJYFmVz6o4PC_RSuTjUR5ZjGjUD3MEGgd0/edit?usp=sharing
 [11]: https://docs.google.com/document/d/1BgZJ_a6YJ6R6-zdti1M5QBosopAE7dFTne7a8E6JAwI/edit?usp=sharing
 [12]: https://docs.google.com/document/d/12EIicw1DOPTDG6foguZA8Ap4pyvfynMlZZsDb8sNRRo/edit?usp=sharing
+[13]: https://docs.google.com/document/d/1nxVwt75zsOXKwNK8bKhBifkei48mwNJrio3DkpLjdkU/edit?usp=sharing
+
 
 [20]: https://docs.google.com/document/d/1NGgiwcJPkNHLBJVUaGrbtdSLWTJ-RL7KC8sm0iAGKjE/edit?usp=sharing
 [21]: https://docs.google.com/document/d/1bfODyGy4emcX7qv2hrUvaI8FFbTjdBhBL-FICsKPVL8/edit?usp=sharing
