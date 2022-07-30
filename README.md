@@ -15,7 +15,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 
 ## Status
 
-45 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+46 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
@@ -36,7 +36,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 | 15. De Beemster                    | [link][15] |
 | 16. Hugo de Groot                  | [link][16] |
 | 17. De Statenbijbel                | [link][17] |
-| 18. Rembrandt                      |            |
+| 18. Rembrandt                      | [link][18] |
 | 19. De Atlas Maior van Blaeu       | [link][19] |
 | 20. Michiel de Ruyter              | [link][20] |
 | 21. Christiaan Huygens             | [link][21] |
@@ -87,7 +87,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 [15]: https://docs.google.com/document/d/1bL_H05sSy3OmMoe172XvsEZp9tbSPeJ1K5Ao0Jbbdio/edit?usp=sharing
 [16]: https://docs.google.com/document/d/1awEP9Az-cYGHpPO357weYKjiodie-JUYRZVZmugbBa0/edit?usp=sharing
 [17]: https://docs.google.com/document/d/1vWGkk5mEUwpuY29XHmsX4pS9Jvtx_AmoYbn9pTvGFp8/edit?usp=sharing
-
+[18]: https://docs.google.com/document/d/1LhPSbDlfRWLIUCjJSqaTSzvt-d9w1NqT0KGUPJMepmA/edit?usp=sharing
 [19]: https://docs.google.com/document/d/1UmCpWc5EoGCPuJ05Fn-hz2yl5Ec1LA5IgJvpIDhxZpk/edit?usp=sharing
 [20]: https://docs.google.com/document/d/1NGgiwcJPkNHLBJVUaGrbtdSLWTJ-RL7KC8sm0iAGKjE/edit?usp=sharing
 [21]: https://docs.google.com/document/d/1bfODyGy4emcX7qv2hrUvaI8FFbTjdBhBL-FICsKPVL8/edit?usp=sharing
