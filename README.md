@@ -15,7 +15,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 
 ## Status
 
-46 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+47 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
@@ -41,7 +41,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 | 20. Michiel de Ruyter              | [link][20] |
 | 21. Christiaan Huygens             | [link][21] |
 | 22. Spinoza                        | [link][22] |
-| 23. Slavernij                      |            |
+| 23. Slavernij                      | [link][23] |
 | 24. Eise Eisinga                   | [link][24] |
 | 25. Sara Burgerhart                |            |
 | 26. De patriotten                  |            |
@@ -91,9 +91,8 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 [19]: https://docs.google.com/document/d/1UmCpWc5EoGCPuJ05Fn-hz2yl5Ec1LA5IgJvpIDhxZpk/edit?usp=sharing
 [20]: https://docs.google.com/document/d/1NGgiwcJPkNHLBJVUaGrbtdSLWTJ-RL7KC8sm0iAGKjE/edit?usp=sharing
 [21]: https://docs.google.com/document/d/1bfODyGy4emcX7qv2hrUvaI8FFbTjdBhBL-FICsKPVL8/edit?usp=sharing
-
 [22]: https://docs.google.com/document/d/1-th8-3SJ_N5E5yGR4b1mlv0qQ7_qnH7Jgq-R4-dnwNw/edit?usp=sharing
-
+[23]: https://docs.google.com/document/d/1LhWfQzfjs9JX84XiAiSr9hXkkK36oaFifrzJ-Uov0eY/edit?usp=sharing
 [24]: https://docs.google.com/document/d/1rpgmh7Ljg_reRGQXZvFGoSSb0pQqonzTtPnaD4u9ML8/edit?usp=sharing
 
 [28]: https://docs.google.com/document/d/1rpgmh7Ljg_reRGQXZvFGoSSb0pQqonzTtPnaD4u9ML8/edit?usp=sharing
