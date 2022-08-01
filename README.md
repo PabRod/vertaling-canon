@@ -15,7 +15,7 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 
 ## Status
 
-48 van de 50 hoofdstukken zijn al klaar en beschikbaar.
+50 van de 50 hoofdstukken zijn al klaar en beschikbaar.
 
 | Hoofdstuk                          |  Vertaling |
 |:-----------------------------------|:----------:|
@@ -44,8 +44,8 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 | 23. Slavernij                      | [link][23] |
 | 24. Eise Eisinga                   | [link][24] |
 | 25. Sara Burgerhart                | [link][25] |
-| 26. De patriotten                  |            |
-| 27. Napoleon Bonaparte             |            |
+| 26. De patriotten                  | [link][26] |
+| 27. Napoleon Bonaparte             | [link][27] |
 | 28. Koning Willem I                | [link][28] |
 | 29. De eerste spoorlijn            | [link][29] |
 | 30. De Grondwet                    | [link][30] |
@@ -95,7 +95,8 @@ Ik ben aan het werken in een Spaanstalige versie, met het veelvoudig doel van:
 [23]: https://docs.google.com/document/d/1LhWfQzfjs9JX84XiAiSr9hXkkK36oaFifrzJ-Uov0eY/edit?usp=sharing
 [24]: https://docs.google.com/document/d/1rpgmh7Ljg_reRGQXZvFGoSSb0pQqonzTtPnaD4u9ML8/edit?usp=sharing
 [25]: https://docs.google.com/document/d/1AxwpTNkYgen-T5ZEDrKDjhcqfLP_relFzue8C5zFatE/edit?usp=sharing
-
+[26]: https://docs.google.com/document/d/166EMklVfx7EVLdT2RRe4QItoYKynWTNS4cTSOjtGYGY/edit?usp=sharing
+[27]: https://docs.google.com/document/d/1hA0sR_hDLDOahCArssgsfmsiSc7CANATY6I8ORhuh4c/edit?usp=sharing
 [28]: https://docs.google.com/document/d/1rpgmh7Ljg_reRGQXZvFGoSSb0pQqonzTtPnaD4u9ML8/edit?usp=sharing
 [29]: https://docs.google.com/document/d/1S3F7pYmSXIBODX-r9JyFrFFJ1eVGw2ga759wQ1GFhKA/edit?usp=sharing
 [30]: https://docs.google.com/document/d/1G024D5sai_ay49LZWS7RNE5t3vi9W-uERRCE99-BX-w/edit?usp=sharing
