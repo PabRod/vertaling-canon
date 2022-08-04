@@ -2,7 +2,6 @@
 subtitle: "658 - 739. Expansión del
   cristianismo"
 title: "Wilibrordo"
-permalink: /04/
 ---
 
 _Los frisones que hacia el año 700 vivían en la zona costera eran

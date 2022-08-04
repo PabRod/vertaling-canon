@@ -1,8 +1,7 @@
 ---
-title: "El limes romano"
 subtitle: "47 d.C - c. 400 d.C. En la frontera
   del mundo romano"
-layout: page
+title: "El limes romano"
 ---
 
 _Hace dos mil años la frontera septentrional del enorme Imperio Romano

@@ -1,7 +1,7 @@
 ---
-title: "Dólmenes"
 subtitle: "c. 3000 a.C. Los primeros
   campesinos"
+title: "Dólmenes"
 ---
 
 _Nadie sabe cómo lo lograron, pero los primeros campesinos fueron

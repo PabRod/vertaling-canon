@@ -2,7 +2,6 @@
 subtitle: "c. 5500 a.C. Los
   cazadores-recolectores"
 title: "Trijntje"
-layout: page
 ---
 
 _Los primeros habitantes de nuestro país ribereño no viven en un lugar
