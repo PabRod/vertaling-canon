@@ -1,1 +1,14 @@
-theme: jekyll-theme-minimal
+theme: minima
+
+author: 
+  name: Pablo Rodríguez-Sánchez
+  email: pablo.rodriguez.sanchez@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Traducción española del Canon Neerlandés
+  Spaanse vertaling van de Canon van Nederland
+
+minima:
+  social_links:
+    twitter: DonMostrenco
+    github: PabRod
+    
