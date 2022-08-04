@@ -5,16 +5,25 @@ ids = glob_wildcards('{id}.docx')
 word_files = expand('{id}.docx', id=ids.id)
 md_files = expand('md/{id}.md', id=ids.id)
 odt_files = expand('odt/{id}.odt', id=ids.id)
+epub_files = expand('epub/{id}.epub', id=ids.id)
+html_files = expand('html/{id}.html', id=ids.id)
+merged_html = ['html/Canon.html']
+pdf_files = expand('pdf/{id}.pdf', id=ids.id)
+merged_pdf = ['pdf/Canon.pdf']
 
 # Auxiliary functions
 def handle_whitespace(string):
     """Make whitespaces understandable by the console"""
     return string.replace(' ', '\ ')
 
-def convert(source, output):
+def convert(source, output, ispdf=False):
     """Convert a word file to a markdown file."""
     cmd = 'pandoc -s {source} -o {output}'.format(source=handle_whitespace(source),
                                                   output=handle_whitespace(output))
+
+    if ispdf:
+        cmd += ' -V geometry:paperwidth=4in -V geometry:paperheight=6in -V geometry:margin=.5in' # Fix too wide margins in pdf
+
     os.system(cmd)
 
 def fix_header(md_file):
@@ -38,30 +47,41 @@ def fix_format(md_file):
     cmd = "sed -i 's/\*/\_/g' {file}".format(file=handle_whitespace(md_file))
     os.system(cmd)
 
-rule process:
+# Process all files
+rule all:
     input:
-        word_files
+        md_files,
+        odt_files,
+        epub_files,
+        html_files,
+        merged_html,
+        pdf_files,
+        merged_pdf
+
+# Convert all word files to markdown
+rule to_md:
     output:
         md_files
     run:
         for (word_file, md_file) in zip(word_files, md_files):
             convert(word_file, md_file)
 
-rule fix_header:
+        for md_file in md_files:
+            fix_header(md_file)
+            fix_format(md_file)
+
+# Convert all markdown files to pdf
+rule to_pdf:
     input:
         md_files
+    output:
+        pdf_files
     run:
-        for file in md_files:
-            fix_header(file)
+        for (md_file, pdf_file) in zip(md_files, pdf_files):
+            convert(md_file, pdf_file, ispdf=True)
 
-rule fix_format:
-    input:
-        md_files
-    run:
-        for file in md_files:
-            fix_format(file)
-
-rule uniformize:
+# Convert all markdown files to odt
+rule to_odt:
     input:
         md_files
     output:
@@ -70,9 +90,48 @@ rule uniformize:
         for (md_file, odt_file) in zip(md_files, odt_files):
             convert(md_file, odt_file)
 
+# Convert all markdown files to epub
+rule to_epub:
+    input:
+        md_files
+    output:
+        epub_files
+    run:
+        for (md_file, epub_file) in zip(md_files, epub_files):
+            convert(md_file, epub_file)
+
+# Convert all markdown files to html
+rule to_html:
+    input:
+        md_files
+    output:
+        html_files
+    run:
+        for (md_file, html_file) in zip(md_files, html_files):
+            convert(md_file, html_file)
+
+# Merge the html files into a single one
+rule merge_html:
+    input:
+        html_files
+    output:
+        merged_html
+    shell:
+        'cat html/*.html > {output}'
+
+# Merge the pdf files into a single one
+rule merge_pdf:
+    input:
+        pdf_files
+    output:
+        merged_pdf
+    shell:
+        'pdftk pdf/*.pdf cat output {output}'
+
+# Clean all generated files (keeps the original word files)
 rule clean:
     run:
-        for file in md_files + odt_files:
+        for file in md_files + odt_files + epub_files + html_files + merged_html + pdf_files + merged_pdf:
             cmd = 'rm {file} 2> /dev/null'.format(file=handle_whitespace(file))
             os.system(cmd)
 

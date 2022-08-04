@@ -1,4 +1,7 @@
 backup/.snakemake
 backup/*.docx
-backup/*.md
 backup/*.zip
+backup/pdf/*
+backup/odt/*
+backup/html/*
+backup/epub/*
